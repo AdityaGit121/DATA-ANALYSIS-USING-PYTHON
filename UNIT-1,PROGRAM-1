@@ -1,0 +1,8 @@
+#To write a Python program that takes user input for weight in kilograms and converts it to pounds
+using the conversion factor:
+1 kilogram = 2.2 pounds
+
+PROGRAM:
+ kilograms = float(input("Enter weight in kilograms: "))
+ pounds = kilograms * 2.2
+ print(f"{kilograms} kilograms is equal to {pounds} pounds.") 
