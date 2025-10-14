@@ -1,0 +1,7 @@
+#To write a Python program that prints a sequence of numbers starting from 8 to 89, increasing by 3
+using a for loop.
+
+PROGRAM:
+
+ for i in range(8, 90, 3):
+ print( i , end=' ')
